@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">MagicProgressWidget</string>
+    <string name="app_name">VerticalProgressWidget</string>
     <string name="app_github">GitHub</string>
-    <string name="app_github_url">https://github.com/lingochamp/MagicProgressWidget</string>
+    <string name="app_github_url">https://github.com/tausiq/VerticalProgressWidget</string>
     <string name="re_random_percent">re-random percent</string>
     <string name="increase_progress_smoothly">increase progress smoothly</string>
 </resources>
