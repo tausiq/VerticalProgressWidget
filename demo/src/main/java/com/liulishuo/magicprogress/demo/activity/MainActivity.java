@@ -13,9 +13,6 @@ import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 
 import com.liulishuo.magicprogress.demo.R;
-import com.liulishuo.magicprogress.demo.widget.AnimTextView;
-import com.liulishuo.magicprogresswidget.MagicProgressBar;
-import com.liulishuo.magicprogresswidget.MagicProgressCircle;
 import com.liulishuo.magicprogresswidget.VerticalProgressBar;
 
 import java.util.Random;
@@ -87,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // Just for demo smoothly process to the target percent in 3000ms duration.
-        demo1Mpb.setSmoothPercent(getIncreasedPercent(demo1Mpb), 3000);
+        demo1Mpb.setSmoothPercent(getIncreasedPercent(demo1Mpb), 1000);
     }
 
     private float getIncreasedPercent(ISmoothTarget target) {
