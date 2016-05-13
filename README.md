@@ -84,7 +84,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[demo_gif]: https://github.com/lingochamp/MagicProgressWidget/raw/master/art/demo2.gif
+[demo_gif]: https://github.com/tausiq/VerticalProgressWidget/blob/master/art/demo2.gif
 [bintray_svg]: https://api.bintray.com/packages/jacksgong/maven/MagicProgressWidget/images/download.svg
 [bintray_link]: https://bintray.com/jacksgong/maven/MagicProgressWidget/_latestVersion
 [build_status_svg]: https://travis-ci.org/lingochamp/MagicProgressWidget.svg?branch=master
